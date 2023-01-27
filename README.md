@@ -117,3 +117,6 @@ Execute the program
 
 ## OUPUT
 ![output](https://user-images.githubusercontent.com/118791778/213872311-779d3652-655f-4e22-af71-5ed0d1bea8c2.png)
+
+## Result:
+The program is exceuted succesfully
